@@ -70,6 +70,17 @@ body{
     background: linear-gradient(#fff, #fff);
     border-radius: 4px;
 }
+.details{
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+    color: #fff;
+    height: 30px;
+    width: 40px;    
+    background: transparent;
+    text-align: center;
+}
+
 .on .switch .btn::before{
     top: 15%;
 }
